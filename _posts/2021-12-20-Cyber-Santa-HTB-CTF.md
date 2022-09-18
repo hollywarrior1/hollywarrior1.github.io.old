@@ -65,11 +65,11 @@ CTF'ка была расчитана больше на новичков и вк�
 Python script:
 ```python
 from Crypto.Util.number import long_to_bytes
-n = <number>
+n = "some big number"
 e1 = 65537
-c1 = <cipher text 1>
+c1 = "cipher text 1"
 e2 = 35
-c2 = <cipher text 2>
+c2 = "cipher text 2"
 a = -2
 b = 3745
 c1_inv = pow(c1, a, n)
