@@ -8,12 +8,14 @@
   icon: 'fab fa-twitter'
 -
   type: hackthebox
-  icon: 'fa-light fa-cube'
-  noblank: true            # open link in current tab
+  icon: 'fal fa-cube'
+  # noblank: true            # open link in current tab
+  url: 'https://app.hackthebox.com/profile/559964'
 -
   type: telegram
-  icon: 'fa-brands fa-telegram'
-  noblank: true
+  icon: 'fab fa-telegram'
+  url: 'https://t.me/hollywarrior1'
+
 
 # Uncomment and complete the url below to enable more contact options
 # -
