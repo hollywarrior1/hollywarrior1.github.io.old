@@ -3,6 +3,7 @@ title: My CyberSanta2021 Walkthrough
 tags: [ctf, hackthebox]
 date: 2021-12-20 20:00:00 +0300
 categories: [CTF, HackTheBox]
+icon: /assets/img/santa_anime.png
 image:
   path: /assets/img/CyberSanta-cover-img.png
   width: 1000   # in pixels
