@@ -1,9 +1,8 @@
 ---
-layout: post
 title: My CyberSanta2021 Walkthrough
-tags: [CTF, HackTheBox]
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [CTF]
+tags: [ctf, hackthebox]
+date: 2021-12-20 20:00:00 +0300
+categories: [CTF, HackTheBox]
 image:
   path: /assets/img/CyberSanta-cover-img.png
   width: 1000   # in pixels
