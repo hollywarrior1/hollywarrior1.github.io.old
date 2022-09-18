@@ -8,7 +8,7 @@
   icon: 'fab fa-twitter'
 -
   type: hackthebox
-  icon: 'fab fa-cube'
+  icon: 'fas fa-cube'
   # noblank: true            # open link in current tab
   url: 'https://app.hackthebox.com/profile/559964'
 -
